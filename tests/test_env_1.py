@@ -18,15 +18,15 @@ print("[✔] Test 2 — Déplacement OK")
 
 # Test 3 — Déplacement contre les bords (ne doit pas sortir de la grille)
 env.reset()
-env.move_agent("left")  # devrait rester sur place
+env.move_agent("left") 
 assert env.get_agent_position() == (0, 0), "L'agent sort de la grille par la gauche"
-env.move_agent("up")    # idem
+env.move_agent("up")
 assert env.get_agent_position() == (0, 0), "L'agent sort de la grille par le haut"
 print("[✔] Test 3 — Limites de la grille OK")
 
 # Test 4 — Lecture de la case couranteenv.reset()
 assert env.get_current_cell() == "S", "La case de départ devrait être 'S'"
-env.move_agent("right")  # vers "F"
+env.move_agent("right")
 assert env.get_current_cell() == "F", "La case à droite devrait être 'F'"
 print("[✔] Test 4 — Lecture de la case actuelle OK")
 
@@ -34,21 +34,21 @@ print("[✔] Test 4 — Lecture de la case actuelle OK")
 env.agent_pos = (1, 1)  # Position d'un trou
 assert env.is_terminal_state() == True, "L'agent est sur un trou, ça devrait être un état terminal"
 
-env.agent_pos = (3, 3)  # Position du goal
+env.agent_pos = (3, 3) 
 assert env.is_terminal_state() == True, "L'agent est sur le but, ça devrait être un état terminal"
 
-env.agent_pos = (0, 1)  # Case normale
+env.agent_pos = (0, 1)
 assert env.is_terminal_state() == False, "Ce n'est pas un état terminal"
 print("[✔] Test 5 — Détection des états terminaux OK")
 
 # Test 6 — Récompenses associées
-env.agent_pos = (1, 1)  # Trou
+env.agent_pos = (1, 1) 
 assert env.get_reward() == -1, "Un trou devrait donner une récompense de -1"
 
-env.agent_pos = (3, 3)  # But
+env.agent_pos = (3, 3)
 assert env.get_reward() == 1, "Le but devrait donner une récompense de +1"
 
-env.agent_pos = (0, 1)  # Case F
+env.agent_pos = (0, 1) 
 assert env.get_reward() == 0, "Une case normale devrait donner une récompense de 0"
 print("[✔] Test 6 — Récompenses OK")
 
