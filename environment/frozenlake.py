@@ -8,6 +8,7 @@ class FrozenLakeEnv:
         self.width = len(self.map[0])
         self.start_pos = self._find_start()
         self.agent_pos = self.start_pos
+        self.actions = ["up", "right", "down", "left"]
     
     def _find_start(self) -> Tuple[int, int]:
         for y, row in enumerate(self.map):
@@ -63,3 +64,23 @@ class FrozenLakeEnv:
                 return 1
             case "H":
                 return self.reward_hole
+
+    def step(self, action: str) -> Tuple[Tuple[int, int], int, bool]:
+        self.move_agent(action)
+        reward = self.get_reward()
+        done = self.is_terminal_state()
+        return self.agent_pos, reward, done
+    
+    def get_available_actions(self) -> list[str]:
+        return self.actions
+
+    def render_text(self):
+        for y in range(self.height):
+            row = ""
+            for x in range(self.width):
+                if (x, y) == self.agent_pos:
+                    row += "A "
+                else:
+                    row += self.map[y][x] + " "
+            print(row)
+        print()

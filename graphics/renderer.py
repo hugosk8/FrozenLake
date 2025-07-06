@@ -20,6 +20,7 @@ def render(env):
 
     clock = pygame.time.Clock()
     running = True
+    game_over = not running
 
     while running:
         screen.fill((30, 30, 30))
@@ -27,6 +28,32 @@ def render(env):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
+            elif event.type == pygame.KEYDOWN and not game_over:
+                direction = None
+
+                if event.key == pygame.K_UP:
+                    direction = "up"
+                elif event.key == pygame.K_RIGHT:
+                    direction = "right"
+                elif event.key == pygame.K_DOWN:
+                    direction = "down"
+                elif event.key == pygame.K_LEFT:
+                    direction = "left"
+
+                if direction:
+                    env.move_agent(direction)
+
+                    reward = env.get_reward()
+                    print(f"Reward: {reward}")
+
+                    if env.is_terminal_state():
+                        game_over = True
+                        current = env.get_current_cell()
+                        print(f"🎯 État terminal atteint : {current}")
+                        if current == "G":
+                            print("🏁 Objectif atteint ! Bravo !")
+                        elif current == "H":
+                            print("💀 Tombé dans un trou ! Dommage.")
         
         for y in range(env.height):
             for x in range(env.width):
