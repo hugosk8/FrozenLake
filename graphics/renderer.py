@@ -8,6 +8,13 @@ COLORS = {
     "F": (255, 255, 255),
     "A": (255, 0, 0)
 }
+ASSETS = {
+    "S": pygame.image.load("graphics/assets/start2.png"),
+    "G": pygame.image.load("graphics/assets/goal.png"),
+    "H": pygame.image.load("graphics/assets/hole.png"),
+    "F": pygame.image.load("graphics/assets/frozen.png"),
+    "A": pygame.image.load("graphics/assets/agent.png"),
+}
 
 def render(env):
     pygame.init()
@@ -60,15 +67,18 @@ def render(env):
                 cell = env.map[y][x]
                 color = COLORS.get(cell, (100, 100, 100))
                 rect = pygame.Rect(x * CELL_SIZE, y * CELL_SIZE, CELL_SIZE, CELL_SIZE)
-                pygame.draw.rect(screen, color, rect)
+                image = ASSETS.get(cell)
+                if image:
+                    screen.blit(image, (x * CELL_SIZE, y * CELL_SIZE))
 
                 pygame.draw.rect(screen, (200, 200, 200), rect, 1)
         
         x, y = env.agent_pos
-        pixel_x = x * CELL_SIZE + CELL_SIZE // 2
-        pixel_y = y * CELL_SIZE + CELL_SIZE // 2
-
-        pygame.draw.circle(screen, COLORS.get("A"), (pixel_x, pixel_y), CELL_SIZE // 4)
+        agent_image = ASSETS.get("A")
+        agent_rect = agent_image.get_rect()
+        pixel_x = x * CELL_SIZE + (CELL_SIZE - agent_rect.width) // 2
+        pixel_y = y * CELL_SIZE + (CELL_SIZE - agent_rect.width) // 4
+        screen.blit(agent_image, (pixel_x, pixel_y))
         
         pygame.display.flip()
         clock.tick(60)

@@ -27,7 +27,7 @@ class FrozenLakeEnv:
     def get_agent_position(self) -> Tuple[int, int]:
         return self.agent_pos
     
-    def move_agent(self, direction: str):
+    def move_agent(self, direction: str): 
         x, y = self.agent_pos
 
         match direction:
