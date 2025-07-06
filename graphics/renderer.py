@@ -1,7 +1,4 @@
 import pygame
-import sys
-
-p = pygame
 
 CELL_SIZE = 64
 COLORS = {
@@ -39,6 +36,12 @@ def render(env):
                 pygame.draw.rect(screen, color, rect)
 
                 pygame.draw.rect(screen, (200, 200, 200), rect, 1)
+        
+        x, y = env.agent_pos
+        pixel_x = x * CELL_SIZE + CELL_SIZE // 2
+        pixel_y = y * CELL_SIZE + CELL_SIZE // 2
+
+        pygame.draw.circle(screen, COLORS.get("A"), (pixel_x, pixel_y), CELL_SIZE // 4)
         
         pygame.display.flip()
         clock.tick(60)
