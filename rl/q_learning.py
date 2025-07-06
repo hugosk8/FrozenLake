@@ -26,3 +26,15 @@ class QLearningAgent:
                     best_actions.append(action)
                     
             return random.choice(best_actions)
+
+    def learn(self, state: Tuple[int, int], action: str, reward: float, next_state: Tuple[int, int], done: bool) -> None:
+        old_value = self.q_table[(state, action)]
+        
+        if done:
+            next_max = 0
+        else:
+            for action in self.actions:
+                next_max = max([self.q_table[(next_max, action)]])
+        
+        new_value = old_value + self.alpha * (reward + self.gamma * next_max - old_value)
+        self.q_table[(state, action)] = new_value
