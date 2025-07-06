@@ -65,7 +65,6 @@ def render(env):
         for y in range(env.height):
             for x in range(env.width):
                 cell = env.map[y][x]
-                color = COLORS.get(cell, (100, 100, 100))
                 rect = pygame.Rect(x * CELL_SIZE, y * CELL_SIZE, CELL_SIZE, CELL_SIZE)
                 image = ASSETS.get(cell)
                 if image:

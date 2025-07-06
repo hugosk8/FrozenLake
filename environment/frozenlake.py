@@ -9,6 +9,7 @@ class FrozenLakeEnv:
         self.start_pos = self._find_start()
         self.agent_pos = self.start_pos
         self.actions = ["up", "right", "down", "left"]
+        self.step_count = 0
     
     def _find_start(self) -> Tuple[int, int]:
         for y, row in enumerate(self.map):
@@ -19,6 +20,7 @@ class FrozenLakeEnv:
     
     def reset(self) -> Tuple[int, int]:
         self.agent_pos = self.start_pos
+        self.step_count = 0
         return self.agent_pos
     
     def get_map(self):
@@ -45,6 +47,7 @@ class FrozenLakeEnv:
         
         if 0 <= new_x < self.width and 0 <= new_y < self.height:
             self.agent_pos = (new_x, new_y)
+            self.step_count += 1
         else:
             print(f"Sortie de map")
         
@@ -84,3 +87,6 @@ class FrozenLakeEnv:
                     row += self.map[y][x] + " "
             print(row)
         print()
+
+    def get_step_count(self) -> int:
+        return self.step_count
