@@ -33,8 +33,9 @@ class QLearningAgent:
         if done:
             next_max = 0
         else:
-            for action in self.actions:
-                next_max = max([self.q_table[(next_max, action)]])
+            next_max = max([self.q_table[(next_state, a)] for a in self.actions])
         
         new_value = old_value + self.alpha * (reward + self.gamma * next_max - old_value)
         self.q_table[(state, action)] = new_value
+        
+        
