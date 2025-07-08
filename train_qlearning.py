@@ -6,4 +6,4 @@ from rl.trainer import train
 env = FrozenLakeEnv(LEVEL_1)
 agent = QLearningAgent(env.actions, 0.1, 0.99, 1)
 
-train(env, agent, 500)
+train(env, agent, 500, log_all=True)

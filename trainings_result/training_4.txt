@@ -1,0 +1,3001 @@
+
+
+Épisode 0 --------------------------------------------------
+Tombé dans un trou à l’épisode 1 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 1 | 
+
+
+Épisode 1 --------------------------------------------------
+Tombé dans un trou à l’épisode 2 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 2 | 
+
+
+Épisode 2 --------------------------------------------------
+Tombé dans un trou à l’épisode 3 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 3 | 
+
+
+Épisode 3 --------------------------------------------------
+Tombé dans un trou à l’épisode 4 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 4 | 
+
+
+Épisode 4 --------------------------------------------------
+Tombé dans un trou à l’épisode 5 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 5 | 
+
+
+Épisode 5 --------------------------------------------------
+Tombé dans un trou à l’épisode 6 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 6 | 
+
+
+Épisode 6 --------------------------------------------------
+Tombé dans un trou à l’épisode 7 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 7 | 
+
+
+Épisode 7 --------------------------------------------------
+Tombé dans un trou à l’épisode 8 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 8 | 
+
+
+Épisode 8 --------------------------------------------------
+Tombé dans un trou à l’épisode 9 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 9 | 
+
+
+Épisode 9 --------------------------------------------------
+Tombé dans un trou à l’épisode 10 en 9 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 10 | 
+
+
+Épisode 10 --------------------------------------------------
+Tombé dans un trou à l’épisode 11 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 11 | 
+
+
+Épisode 11 --------------------------------------------------
+Tombé dans un trou à l’épisode 12 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 12 | 
+
+
+Épisode 12 --------------------------------------------------
+Tombé dans un trou à l’épisode 13 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 13 | 
+
+
+Épisode 13 --------------------------------------------------
+Tombé dans un trou à l’épisode 14 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 14 | 
+
+
+Épisode 14 --------------------------------------------------
+Tombé dans un trou à l’épisode 15 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 15 | 
+
+
+Épisode 15 --------------------------------------------------
+Tombé dans un trou à l’épisode 16 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 16 | 
+
+
+Épisode 16 --------------------------------------------------
+Tombé dans un trou à l’épisode 17 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 17 | 
+
+
+Épisode 17 --------------------------------------------------
+Tombé dans un trou à l’épisode 18 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 18 | 
+
+
+Épisode 18 --------------------------------------------------
+Tombé dans un trou à l’épisode 19 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 19 | 
+
+
+Épisode 19 --------------------------------------------------
+Tombé dans un trou à l’épisode 20 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 20 | 
+
+
+Épisode 20 --------------------------------------------------
+Tombé dans un trou à l’épisode 21 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 21 | 
+
+
+Épisode 21 --------------------------------------------------
+Tombé dans un trou à l’épisode 22 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 22 | 
+
+
+Épisode 22 --------------------------------------------------
+Tombé dans un trou à l’épisode 23 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 23 | 
+
+
+Épisode 23 --------------------------------------------------
+Tombé dans un trou à l’épisode 24 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 24 | 
+
+
+Épisode 24 --------------------------------------------------
+Tombé dans un trou à l’épisode 25 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 25 | 
+
+
+Épisode 25 --------------------------------------------------
+Tombé dans un trou à l’épisode 26 en 11 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 26 | 
+
+
+Épisode 26 --------------------------------------------------
+Tombé dans un trou à l’épisode 27 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 27 | 
+
+
+Épisode 27 --------------------------------------------------
+Tombé dans un trou à l’épisode 28 en 7 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 28 | 
+
+
+Épisode 28 --------------------------------------------------
+Tombé dans un trou à l’épisode 29 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 29 | 
+
+
+Épisode 29 --------------------------------------------------
+Tombé dans un trou à l’épisode 30 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 30 | 
+
+
+Épisode 30 --------------------------------------------------
+Tombé dans un trou à l’épisode 31 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 31 | 
+
+
+Épisode 31 --------------------------------------------------
+Tombé dans un trou à l’épisode 32 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 32 | 
+
+
+Épisode 32 --------------------------------------------------
+Tombé dans un trou à l’épisode 33 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 33 | 
+
+
+Épisode 33 --------------------------------------------------
+Tombé dans un trou à l’épisode 34 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 34 | 
+
+
+Épisode 34 --------------------------------------------------
+Tombé dans un trou à l’épisode 35 en 10 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 35 | 
+
+
+Épisode 35 --------------------------------------------------
+Tombé dans un trou à l’épisode 36 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 36 | 
+
+
+Épisode 36 --------------------------------------------------
+Tombé dans un trou à l’épisode 37 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 37 | 
+
+
+Épisode 37 --------------------------------------------------
+Tombé dans un trou à l’épisode 38 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 38 | 
+
+
+Épisode 38 --------------------------------------------------
+Tombé dans un trou à l’épisode 39 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 39 | 
+
+
+Épisode 39 --------------------------------------------------
+Tombé dans un trou à l’épisode 40 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 40 | 
+
+
+Épisode 40 --------------------------------------------------
+Tombé dans un trou à l’épisode 41 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 41 | 
+
+
+Épisode 41 --------------------------------------------------
+Tombé dans un trou à l’épisode 42 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 42 | 
+
+
+Épisode 42 --------------------------------------------------
+Tombé dans un trou à l’épisode 43 en 18 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 43 | 
+
+
+Épisode 43 --------------------------------------------------
+Tombé dans un trou à l’épisode 44 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 44 | 
+
+
+Épisode 44 --------------------------------------------------
+Tombé dans un trou à l’épisode 45 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 45 | 
+
+
+Épisode 45 --------------------------------------------------
+Tombé dans un trou à l’épisode 46 en 10 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 46 | 
+
+
+Épisode 46 --------------------------------------------------
+Tombé dans un trou à l’épisode 47 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 47 | 
+
+
+Épisode 47 --------------------------------------------------
+Tombé dans un trou à l’épisode 48 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 48 | 
+
+
+Épisode 48 --------------------------------------------------
+Tombé dans un trou à l’épisode 49 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 49 | 
+
+
+Épisode 49 --------------------------------------------------
+Tombé dans un trou à l’épisode 50 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 50 | 
+
+
+Épisode 50 --------------------------------------------------
+Tombé dans un trou à l’épisode 51 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 51 | 
+
+
+Épisode 51 --------------------------------------------------
+Tombé dans un trou à l’épisode 52 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 52 | 
+
+
+Épisode 52 --------------------------------------------------
+Tombé dans un trou à l’épisode 53 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 53 | 
+
+
+Épisode 53 --------------------------------------------------
+Tombé dans un trou à l’épisode 54 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 54 | 
+
+
+Épisode 54 --------------------------------------------------
+Tombé dans un trou à l’épisode 55 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 55 | 
+
+
+Épisode 55 --------------------------------------------------
+Tombé dans un trou à l’épisode 56 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 56 | 
+
+
+Épisode 56 --------------------------------------------------
+Tombé dans un trou à l’épisode 57 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 57 | 
+
+
+Épisode 57 --------------------------------------------------
+Tombé dans un trou à l’épisode 58 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 58 | 
+
+
+Épisode 58 --------------------------------------------------
+Tombé dans un trou à l’épisode 59 en 10 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 59 | 
+
+
+Épisode 59 --------------------------------------------------
+Tombé dans un trou à l’épisode 60 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 60 | 
+
+
+Épisode 60 --------------------------------------------------
+Tombé dans un trou à l’épisode 61 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 61 | 
+
+
+Épisode 61 --------------------------------------------------
+Tombé dans un trou à l’épisode 62 en 21 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 62 | 
+
+
+Épisode 62 --------------------------------------------------
+Tombé dans un trou à l’épisode 63 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 63 | 
+
+
+Épisode 63 --------------------------------------------------
+Tombé dans un trou à l’épisode 64 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 64 | 
+
+
+Épisode 64 --------------------------------------------------
+Tombé dans un trou à l’épisode 65 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 65 | 
+
+
+Épisode 65 --------------------------------------------------
+Tombé dans un trou à l’épisode 66 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 66 | 
+
+
+Épisode 66 --------------------------------------------------
+Tombé dans un trou à l’épisode 67 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 67 | 
+
+
+Épisode 67 --------------------------------------------------
+Tombé dans un trou à l’épisode 68 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 68 | 
+
+
+Épisode 68 --------------------------------------------------
+Tombé dans un trou à l’épisode 69 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 69 | 
+
+
+Épisode 69 --------------------------------------------------
+Tombé dans un trou à l’épisode 70 en 8 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 70 | 
+
+
+Épisode 70 --------------------------------------------------
+Tombé dans un trou à l’épisode 71 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 71 | 
+
+
+Épisode 71 --------------------------------------------------
+Tombé dans un trou à l’épisode 72 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 72 | 
+
+
+Épisode 72 --------------------------------------------------
+Tombé dans un trou à l’épisode 73 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 73 | 
+
+
+Épisode 73 --------------------------------------------------
+Tombé dans un trou à l’épisode 74 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 74 | 
+
+
+Épisode 74 --------------------------------------------------
+Tombé dans un trou à l’épisode 75 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 75 | 
+
+
+Épisode 75 --------------------------------------------------
+Tombé dans un trou à l’épisode 76 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 76 | 
+
+
+Épisode 76 --------------------------------------------------
+Tombé dans un trou à l’épisode 77 en 2 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 77 | 
+
+
+Épisode 77 --------------------------------------------------
+Tombé dans un trou à l’épisode 78 en 5 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 78 | 
+
+
+Épisode 78 --------------------------------------------------
+Tombé dans un trou à l’épisode 79 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 79 | 
+
+
+Épisode 79 --------------------------------------------------
+Tombé dans un trou à l’épisode 80 en 3 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 80 | 
+
+
+Épisode 80 --------------------------------------------------
+Tombé dans un trou à l’épisode 81 en 4 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 81 | 
+
+
+Épisode 81 --------------------------------------------------
+Tombé dans un trou à l’épisode 82 en 10 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 82 | 
+
+
+Épisode 82 --------------------------------------------------
+Tombé dans un trou à l’épisode 83 en 7 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 83 | 
+
+
+Épisode 83 --------------------------------------------------
+Tombé dans un trou à l’épisode 84 en 6 étapes.
+Succès depuis le debut: 0/500
+Epsilon = 1.00 à l'épisode 84 | 
+
+
+Épisode 84 --------------------------------------------------
+Objectif atteint à l’épisode 85 en 10 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 85 | 
+
+
+Épisode 85 --------------------------------------------------
+Tombé dans un trou à l’épisode 86 en 5 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 86 | 
+
+
+Épisode 86 --------------------------------------------------
+Tombé dans un trou à l’épisode 87 en 14 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 87 | 
+
+
+Épisode 87 --------------------------------------------------
+Tombé dans un trou à l’épisode 88 en 8 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 88 | 
+
+
+Épisode 88 --------------------------------------------------
+Tombé dans un trou à l’épisode 89 en 8 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 89 | 
+
+
+Épisode 89 --------------------------------------------------
+Tombé dans un trou à l’épisode 90 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 90 | 
+
+
+Épisode 90 --------------------------------------------------
+Tombé dans un trou à l’épisode 91 en 4 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 91 | 
+
+
+Épisode 91 --------------------------------------------------
+Tombé dans un trou à l’épisode 92 en 4 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 92 | 
+
+
+Épisode 92 --------------------------------------------------
+Tombé dans un trou à l’épisode 93 en 8 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 93 | 
+
+
+Épisode 93 --------------------------------------------------
+Tombé dans un trou à l’épisode 94 en 10 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 94 | 
+
+
+Épisode 94 --------------------------------------------------
+Tombé dans un trou à l’épisode 95 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 95 | 
+
+
+Épisode 95 --------------------------------------------------
+Tombé dans un trou à l’épisode 96 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 96 | 
+
+
+Épisode 96 --------------------------------------------------
+Tombé dans un trou à l’épisode 97 en 6 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 97 | 
+
+
+Épisode 97 --------------------------------------------------
+Tombé dans un trou à l’épisode 98 en 11 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 98 | 
+
+
+Épisode 98 --------------------------------------------------
+Tombé dans un trou à l’épisode 99 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 99 | 
+
+
+Épisode 99 --------------------------------------------------
+Tombé dans un trou à l’épisode 100 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 1.00 à l'épisode 100 | 
+
+
+Épisode 100 --------------------------------------------------
+Tombé dans un trou à l’épisode 101 en 4 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 0.80 à l'épisode 101 | 
+
+
+Épisode 101 --------------------------------------------------
+Tombé dans un trou à l’épisode 102 en 5 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 0.80 à l'épisode 102 | 
+
+
+Épisode 102 --------------------------------------------------
+Tombé dans un trou à l’épisode 103 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 0.80 à l'épisode 103 | 
+
+
+Épisode 103 --------------------------------------------------
+Tombé dans un trou à l’épisode 104 en 6 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 0.80 à l'épisode 104 | 
+
+
+Épisode 104 --------------------------------------------------
+Tombé dans un trou à l’épisode 105 en 2 étapes.
+Succès depuis le debut: 1/500
+Epsilon = 0.80 à l'épisode 105 | 
+
+
+Épisode 105 --------------------------------------------------
+Objectif atteint à l’épisode 106 en 16 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 106 | 
+
+
+Épisode 106 --------------------------------------------------
+Tombé dans un trou à l’épisode 107 en 8 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 107 | 
+
+
+Épisode 107 --------------------------------------------------
+Tombé dans un trou à l’épisode 108 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 108 | 
+
+
+Épisode 108 --------------------------------------------------
+Tombé dans un trou à l’épisode 109 en 9 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 109 | 
+
+
+Épisode 109 --------------------------------------------------
+Tombé dans un trou à l’épisode 110 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 110 | 
+
+
+Épisode 110 --------------------------------------------------
+Tombé dans un trou à l’épisode 111 en 14 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 111 | 
+
+
+Épisode 111 --------------------------------------------------
+Tombé dans un trou à l’épisode 112 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 112 | 
+
+
+Épisode 112 --------------------------------------------------
+Tombé dans un trou à l’épisode 113 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 113 | 
+
+
+Épisode 113 --------------------------------------------------
+Tombé dans un trou à l’épisode 114 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 114 | 
+
+
+Épisode 114 --------------------------------------------------
+Tombé dans un trou à l’épisode 115 en 6 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 115 | 
+
+
+Épisode 115 --------------------------------------------------
+Tombé dans un trou à l’épisode 116 en 8 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 116 | 
+
+
+Épisode 116 --------------------------------------------------
+Tombé dans un trou à l’épisode 117 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 117 | 
+
+
+Épisode 117 --------------------------------------------------
+Tombé dans un trou à l’épisode 118 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 118 | 
+
+
+Épisode 118 --------------------------------------------------
+Tombé dans un trou à l’épisode 119 en 5 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 119 | 
+
+
+Épisode 119 --------------------------------------------------
+Tombé dans un trou à l’épisode 120 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 120 | 
+
+
+Épisode 120 --------------------------------------------------
+Tombé dans un trou à l’épisode 121 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 121 | 
+
+
+Épisode 121 --------------------------------------------------
+Tombé dans un trou à l’épisode 122 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 122 | 
+
+
+Épisode 122 --------------------------------------------------
+Tombé dans un trou à l’épisode 123 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 123 | 
+
+
+Épisode 123 --------------------------------------------------
+Tombé dans un trou à l’épisode 124 en 27 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 124 | 
+
+
+Épisode 124 --------------------------------------------------
+Tombé dans un trou à l’épisode 125 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 125 | 
+
+
+Épisode 125 --------------------------------------------------
+Tombé dans un trou à l’épisode 126 en 2 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 126 | 
+
+
+Épisode 126 --------------------------------------------------
+Tombé dans un trou à l’épisode 127 en 4 étapes.
+Succès depuis le debut: 2/500
+Epsilon = 0.80 à l'épisode 127 | 
+
+
+Épisode 127 --------------------------------------------------
+Objectif atteint à l’épisode 128 en 8 étapes.
+Succès depuis le debut: 3/500
+Epsilon = 0.80 à l'épisode 128 | 
+
+
+Épisode 128 --------------------------------------------------
+Tombé dans un trou à l’épisode 129 en 5 étapes.
+Succès depuis le debut: 3/500
+Epsilon = 0.80 à l'épisode 129 | 
+
+
+Épisode 129 --------------------------------------------------
+Tombé dans un trou à l’épisode 130 en 10 étapes.
+Succès depuis le debut: 3/500
+Epsilon = 0.80 à l'épisode 130 | 
+
+
+Épisode 130 --------------------------------------------------
+Tombé dans un trou à l’épisode 131 en 2 étapes.
+Succès depuis le debut: 3/500
+Epsilon = 0.80 à l'épisode 131 | 
+
+
+Épisode 131 --------------------------------------------------
+Objectif atteint à l’épisode 132 en 12 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 132 | 
+
+
+Épisode 132 --------------------------------------------------
+Tombé dans un trou à l’épisode 133 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 133 | 
+
+
+Épisode 133 --------------------------------------------------
+Tombé dans un trou à l’épisode 134 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 134 | 
+
+
+Épisode 134 --------------------------------------------------
+Tombé dans un trou à l’épisode 135 en 6 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 135 | 
+
+
+Épisode 135 --------------------------------------------------
+Tombé dans un trou à l’épisode 136 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 136 | 
+
+
+Épisode 136 --------------------------------------------------
+Tombé dans un trou à l’épisode 137 en 9 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 137 | 
+
+
+Épisode 137 --------------------------------------------------
+Tombé dans un trou à l’épisode 138 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 138 | 
+
+
+Épisode 138 --------------------------------------------------
+Tombé dans un trou à l’épisode 139 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 139 | 
+
+
+Épisode 139 --------------------------------------------------
+Tombé dans un trou à l’épisode 140 en 4 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 140 | 
+
+
+Épisode 140 --------------------------------------------------
+Tombé dans un trou à l’épisode 141 en 4 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 141 | 
+
+
+Épisode 141 --------------------------------------------------
+Tombé dans un trou à l’épisode 142 en 9 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 142 | 
+
+
+Épisode 142 --------------------------------------------------
+Tombé dans un trou à l’épisode 143 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 143 | 
+
+
+Épisode 143 --------------------------------------------------
+Tombé dans un trou à l’épisode 144 en 5 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 144 | 
+
+
+Épisode 144 --------------------------------------------------
+Tombé dans un trou à l’épisode 145 en 4 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 145 | 
+
+
+Épisode 145 --------------------------------------------------
+Tombé dans un trou à l’épisode 146 en 17 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 146 | 
+
+
+Épisode 146 --------------------------------------------------
+Tombé dans un trou à l’épisode 147 en 11 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 147 | 
+
+
+Épisode 147 --------------------------------------------------
+Tombé dans un trou à l’épisode 148 en 9 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 148 | 
+
+
+Épisode 148 --------------------------------------------------
+Tombé dans un trou à l’épisode 149 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 149 | 
+
+
+Épisode 149 --------------------------------------------------
+Tombé dans un trou à l’épisode 150 en 2 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 150 | 
+
+
+Épisode 150 --------------------------------------------------
+Tombé dans un trou à l’épisode 151 en 10 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 151 | 
+
+
+Épisode 151 --------------------------------------------------
+Tombé dans un trou à l’épisode 152 en 7 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 152 | 
+
+
+Épisode 152 --------------------------------------------------
+Tombé dans un trou à l’épisode 153 en 11 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 153 | 
+
+
+Épisode 153 --------------------------------------------------
+Tombé dans un trou à l’épisode 154 en 15 étapes.
+Succès depuis le debut: 4/500
+Epsilon = 0.80 à l'épisode 154 | 
+
+
+Épisode 154 --------------------------------------------------
+Objectif atteint à l’épisode 155 en 6 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 155 | 
+
+
+Épisode 155 --------------------------------------------------
+Tombé dans un trou à l’épisode 156 en 2 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 156 | 
+
+
+Épisode 156 --------------------------------------------------
+Tombé dans un trou à l’épisode 157 en 5 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 157 | 
+
+
+Épisode 157 --------------------------------------------------
+Tombé dans un trou à l’épisode 158 en 8 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 158 | 
+
+
+Épisode 158 --------------------------------------------------
+Tombé dans un trou à l’épisode 159 en 5 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 159 | 
+
+
+Épisode 159 --------------------------------------------------
+Tombé dans un trou à l’épisode 160 en 15 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 160 | 
+
+
+Épisode 160 --------------------------------------------------
+Tombé dans un trou à l’épisode 161 en 2 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 161 | 
+
+
+Épisode 161 --------------------------------------------------
+Tombé dans un trou à l’épisode 162 en 7 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 162 | 
+
+
+Épisode 162 --------------------------------------------------
+Tombé dans un trou à l’épisode 163 en 2 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 163 | 
+
+
+Épisode 163 --------------------------------------------------
+Tombé dans un trou à l’épisode 164 en 7 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 164 | 
+
+
+Épisode 164 --------------------------------------------------
+Tombé dans un trou à l’épisode 165 en 9 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 165 | 
+
+
+Épisode 165 --------------------------------------------------
+Tombé dans un trou à l’épisode 166 en 3 étapes.
+Succès depuis le debut: 5/500
+Epsilon = 0.80 à l'épisode 166 | 
+
+
+Épisode 166 --------------------------------------------------
+Objectif atteint à l’épisode 167 en 8 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 167 | 
+
+
+Épisode 167 --------------------------------------------------
+Tombé dans un trou à l’épisode 168 en 7 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 168 | 
+
+
+Épisode 168 --------------------------------------------------
+Tombé dans un trou à l’épisode 169 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 169 | 
+
+
+Épisode 169 --------------------------------------------------
+Tombé dans un trou à l’épisode 170 en 3 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 170 | 
+
+
+Épisode 170 --------------------------------------------------
+Tombé dans un trou à l’épisode 171 en 4 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 171 | 
+
+
+Épisode 171 --------------------------------------------------
+Tombé dans un trou à l’épisode 172 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 172 | 
+
+
+Épisode 172 --------------------------------------------------
+Tombé dans un trou à l’épisode 173 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 173 | 
+
+
+Épisode 173 --------------------------------------------------
+Tombé dans un trou à l’épisode 174 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 174 | 
+
+
+Épisode 174 --------------------------------------------------
+Tombé dans un trou à l’épisode 175 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 175 | 
+
+
+Épisode 175 --------------------------------------------------
+Tombé dans un trou à l’épisode 176 en 3 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 176 | 
+
+
+Épisode 176 --------------------------------------------------
+Tombé dans un trou à l’épisode 177 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 177 | 
+
+
+Épisode 177 --------------------------------------------------
+Tombé dans un trou à l’épisode 178 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 178 | 
+
+
+Épisode 178 --------------------------------------------------
+Tombé dans un trou à l’épisode 179 en 9 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 179 | 
+
+
+Épisode 179 --------------------------------------------------
+Tombé dans un trou à l’épisode 180 en 4 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 180 | 
+
+
+Épisode 180 --------------------------------------------------
+Tombé dans un trou à l’épisode 181 en 4 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 181 | 
+
+
+Épisode 181 --------------------------------------------------
+Tombé dans un trou à l’épisode 182 en 4 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 182 | 
+
+
+Épisode 182 --------------------------------------------------
+Tombé dans un trou à l’épisode 183 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 183 | 
+
+
+Épisode 183 --------------------------------------------------
+Tombé dans un trou à l’épisode 184 en 3 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 184 | 
+
+
+Épisode 184 --------------------------------------------------
+Tombé dans un trou à l’épisode 185 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 185 | 
+
+
+Épisode 185 --------------------------------------------------
+Tombé dans un trou à l’épisode 186 en 2 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 186 | 
+
+
+Épisode 186 --------------------------------------------------
+Tombé dans un trou à l’épisode 187 en 3 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 187 | 
+
+
+Épisode 187 --------------------------------------------------
+Tombé dans un trou à l’épisode 188 en 5 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 188 | 
+
+
+Épisode 188 --------------------------------------------------
+Tombé dans un trou à l’épisode 189 en 7 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 189 | 
+
+
+Épisode 189 --------------------------------------------------
+Tombé dans un trou à l’épisode 190 en 5 étapes.
+Succès depuis le debut: 6/500
+Epsilon = 0.80 à l'épisode 190 | 
+
+
+Épisode 190 --------------------------------------------------
+Objectif atteint à l’épisode 191 en 18 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 191 | 
+
+
+Épisode 191 --------------------------------------------------
+Tombé dans un trou à l’épisode 192 en 9 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 192 | 
+
+
+Épisode 192 --------------------------------------------------
+Tombé dans un trou à l’épisode 193 en 2 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 193 | 
+
+
+Épisode 193 --------------------------------------------------
+Tombé dans un trou à l’épisode 194 en 2 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 194 | 
+
+
+Épisode 194 --------------------------------------------------
+Tombé dans un trou à l’épisode 195 en 13 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 195 | 
+
+
+Épisode 195 --------------------------------------------------
+Tombé dans un trou à l’épisode 196 en 11 étapes.
+Succès depuis le debut: 7/500
+Epsilon = 0.80 à l'épisode 196 | 
+
+
+Épisode 196 --------------------------------------------------
+Objectif atteint à l’épisode 197 en 10 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.80 à l'épisode 197 | 
+
+
+Épisode 197 --------------------------------------------------
+Tombé dans un trou à l’épisode 198 en 2 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.80 à l'épisode 198 | 
+
+
+Épisode 198 --------------------------------------------------
+Tombé dans un trou à l’épisode 199 en 2 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.80 à l'épisode 199 | 
+
+
+Épisode 199 --------------------------------------------------
+Tombé dans un trou à l’épisode 200 en 2 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.80 à l'épisode 200 | 
+
+
+Épisode 200 --------------------------------------------------
+Tombé dans un trou à l’épisode 201 en 5 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.60 à l'épisode 201 | 
+
+
+Épisode 201 --------------------------------------------------
+Tombé dans un trou à l’épisode 202 en 2 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.60 à l'épisode 202 | 
+
+
+Épisode 202 --------------------------------------------------
+Tombé dans un trou à l’épisode 203 en 6 étapes.
+Succès depuis le debut: 8/500
+Epsilon = 0.60 à l'épisode 203 | 
+
+
+Épisode 203 --------------------------------------------------
+Objectif atteint à l’épisode 204 en 6 étapes.
+Succès depuis le debut: 9/500
+Epsilon = 0.60 à l'épisode 204 | 
+
+
+Épisode 204 --------------------------------------------------
+Objectif atteint à l’épisode 205 en 6 étapes.
+Succès depuis le debut: 10/500
+Epsilon = 0.60 à l'épisode 205 | 
+
+
+Épisode 205 --------------------------------------------------
+Tombé dans un trou à l’épisode 206 en 4 étapes.
+Succès depuis le debut: 10/500
+Epsilon = 0.60 à l'épisode 206 | 
+
+
+Épisode 206 --------------------------------------------------
+Tombé dans un trou à l’épisode 207 en 2 étapes.
+Succès depuis le debut: 10/500
+Epsilon = 0.60 à l'épisode 207 | 
+
+
+Épisode 207 --------------------------------------------------
+Objectif atteint à l’épisode 208 en 6 étapes.
+Succès depuis le debut: 11/500
+Epsilon = 0.60 à l'épisode 208 | 
+
+
+Épisode 208 --------------------------------------------------
+Objectif atteint à l’épisode 209 en 12 étapes.
+Succès depuis le debut: 12/500
+Epsilon = 0.60 à l'épisode 209 | 
+
+
+Épisode 209 --------------------------------------------------
+Objectif atteint à l’épisode 210 en 6 étapes.
+Succès depuis le debut: 13/500
+Epsilon = 0.60 à l'épisode 210 | 
+
+
+Épisode 210 --------------------------------------------------
+Objectif atteint à l’épisode 211 en 6 étapes.
+Succès depuis le debut: 14/500
+Epsilon = 0.60 à l'épisode 211 | 
+
+
+Épisode 211 --------------------------------------------------
+Tombé dans un trou à l’épisode 212 en 17 étapes.
+Succès depuis le debut: 14/500
+Epsilon = 0.60 à l'épisode 212 | 
+
+
+Épisode 212 --------------------------------------------------
+Tombé dans un trou à l’épisode 213 en 6 étapes.
+Succès depuis le debut: 14/500
+Epsilon = 0.60 à l'épisode 213 | 
+
+
+Épisode 213 --------------------------------------------------
+Tombé dans un trou à l’épisode 214 en 12 étapes.
+Succès depuis le debut: 14/500
+Epsilon = 0.60 à l'épisode 214 | 
+
+
+Épisode 214 --------------------------------------------------
+Objectif atteint à l’épisode 215 en 8 étapes.
+Succès depuis le debut: 15/500
+Epsilon = 0.60 à l'épisode 215 | 
+
+
+Épisode 215 --------------------------------------------------
+Tombé dans un trou à l’épisode 216 en 2 étapes.
+Succès depuis le debut: 15/500
+Epsilon = 0.60 à l'épisode 216 | 
+
+
+Épisode 216 --------------------------------------------------
+Tombé dans un trou à l’épisode 217 en 3 étapes.
+Succès depuis le debut: 15/500
+Epsilon = 0.60 à l'épisode 217 | 
+
+
+Épisode 217 --------------------------------------------------
+Tombé dans un trou à l’épisode 218 en 2 étapes.
+Succès depuis le debut: 15/500
+Epsilon = 0.60 à l'épisode 218 | 
+
+
+Épisode 218 --------------------------------------------------
+Objectif atteint à l’épisode 219 en 8 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 219 | 
+
+
+Épisode 219 --------------------------------------------------
+Tombé dans un trou à l’épisode 220 en 6 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 220 | 
+
+
+Épisode 220 --------------------------------------------------
+Tombé dans un trou à l’épisode 221 en 14 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 221 | 
+
+
+Épisode 221 --------------------------------------------------
+Tombé dans un trou à l’épisode 222 en 13 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 222 | 
+
+
+Épisode 222 --------------------------------------------------
+Tombé dans un trou à l’épisode 223 en 4 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 223 | 
+
+
+Épisode 223 --------------------------------------------------
+Tombé dans un trou à l’épisode 224 en 5 étapes.
+Succès depuis le debut: 16/500
+Epsilon = 0.60 à l'épisode 224 | 
+
+
+Épisode 224 --------------------------------------------------
+Objectif atteint à l’épisode 225 en 8 étapes.
+Succès depuis le debut: 17/500
+Epsilon = 0.60 à l'épisode 225 | 
+
+
+Épisode 225 --------------------------------------------------
+Tombé dans un trou à l’épisode 226 en 3 étapes.
+Succès depuis le debut: 17/500
+Epsilon = 0.60 à l'épisode 226 | 
+
+
+Épisode 226 --------------------------------------------------
+Objectif atteint à l’épisode 227 en 8 étapes.
+Succès depuis le debut: 18/500
+Epsilon = 0.60 à l'épisode 227 | 
+
+
+Épisode 227 --------------------------------------------------
+Tombé dans un trou à l’épisode 228 en 3 étapes.
+Succès depuis le debut: 18/500
+Epsilon = 0.60 à l'épisode 228 | 
+
+
+Épisode 228 --------------------------------------------------
+Objectif atteint à l’épisode 229 en 10 étapes.
+Succès depuis le debut: 19/500
+Epsilon = 0.60 à l'épisode 229 | 
+
+
+Épisode 229 --------------------------------------------------
+Tombé dans un trou à l’épisode 230 en 2 étapes.
+Succès depuis le debut: 19/500
+Epsilon = 0.60 à l'épisode 230 | 
+
+
+Épisode 230 --------------------------------------------------
+Tombé dans un trou à l’épisode 231 en 5 étapes.
+Succès depuis le debut: 19/500
+Epsilon = 0.60 à l'épisode 231 | 
+
+
+Épisode 231 --------------------------------------------------
+Tombé dans un trou à l’épisode 232 en 4 étapes.
+Succès depuis le debut: 19/500
+Epsilon = 0.60 à l'épisode 232 | 
+
+
+Épisode 232 --------------------------------------------------
+Objectif atteint à l’épisode 233 en 10 étapes.
+Succès depuis le debut: 20/500
+Epsilon = 0.60 à l'épisode 233 | 
+
+
+Épisode 233 --------------------------------------------------
+Objectif atteint à l’épisode 234 en 8 étapes.
+Succès depuis le debut: 21/500
+Epsilon = 0.60 à l'épisode 234 | 
+
+
+Épisode 234 --------------------------------------------------
+Tombé dans un trou à l’épisode 235 en 2 étapes.
+Succès depuis le debut: 21/500
+Epsilon = 0.60 à l'épisode 235 | 
+
+
+Épisode 235 --------------------------------------------------
+Tombé dans un trou à l’épisode 236 en 6 étapes.
+Succès depuis le debut: 21/500
+Epsilon = 0.60 à l'épisode 236 | 
+
+
+Épisode 236 --------------------------------------------------
+Tombé dans un trou à l’épisode 237 en 2 étapes.
+Succès depuis le debut: 21/500
+Epsilon = 0.60 à l'épisode 237 | 
+
+
+Épisode 237 --------------------------------------------------
+Objectif atteint à l’épisode 238 en 8 étapes.
+Succès depuis le debut: 22/500
+Epsilon = 0.60 à l'épisode 238 | 
+
+
+Épisode 238 --------------------------------------------------
+Tombé dans un trou à l’épisode 239 en 7 étapes.
+Succès depuis le debut: 22/500
+Epsilon = 0.60 à l'épisode 239 | 
+
+
+Épisode 239 --------------------------------------------------
+Objectif atteint à l’épisode 240 en 6 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 240 | 
+
+
+Épisode 240 --------------------------------------------------
+Tombé dans un trou à l’épisode 241 en 6 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 241 | 
+
+
+Épisode 241 --------------------------------------------------
+Tombé dans un trou à l’épisode 242 en 2 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 242 | 
+
+
+Épisode 242 --------------------------------------------------
+Tombé dans un trou à l’épisode 243 en 8 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 243 | 
+
+
+Épisode 243 --------------------------------------------------
+Tombé dans un trou à l’épisode 244 en 2 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 244 | 
+
+
+Épisode 244 --------------------------------------------------
+Tombé dans un trou à l’épisode 245 en 5 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 245 | 
+
+
+Épisode 245 --------------------------------------------------
+Tombé dans un trou à l’épisode 246 en 4 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 246 | 
+
+
+Épisode 246 --------------------------------------------------
+Tombé dans un trou à l’épisode 247 en 11 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 247 | 
+
+
+Épisode 247 --------------------------------------------------
+Tombé dans un trou à l’épisode 248 en 9 étapes.
+Succès depuis le debut: 23/500
+Epsilon = 0.60 à l'épisode 248 | 
+
+
+Épisode 248 --------------------------------------------------
+Objectif atteint à l’épisode 249 en 6 étapes.
+Succès depuis le debut: 24/500
+Epsilon = 0.60 à l'épisode 249 | 
+
+
+Épisode 249 --------------------------------------------------
+Objectif atteint à l’épisode 250 en 6 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 250 | 
+
+
+Épisode 250 --------------------------------------------------
+Tombé dans un trou à l’épisode 251 en 2 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 251 | 
+
+
+Épisode 251 --------------------------------------------------
+Tombé dans un trou à l’épisode 252 en 4 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 252 | 
+
+
+Épisode 252 --------------------------------------------------
+Tombé dans un trou à l’épisode 253 en 4 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 253 | 
+
+
+Épisode 253 --------------------------------------------------
+Tombé dans un trou à l’épisode 254 en 6 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 254 | 
+
+
+Épisode 254 --------------------------------------------------
+Tombé dans un trou à l’épisode 255 en 5 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 255 | 
+
+
+Épisode 255 --------------------------------------------------
+Tombé dans un trou à l’épisode 256 en 4 étapes.
+Succès depuis le debut: 25/500
+Epsilon = 0.60 à l'épisode 256 | 
+
+
+Épisode 256 --------------------------------------------------
+Objectif atteint à l’épisode 257 en 8 étapes.
+Succès depuis le debut: 26/500
+Epsilon = 0.60 à l'épisode 257 | 
+
+
+Épisode 257 --------------------------------------------------
+Objectif atteint à l’épisode 258 en 8 étapes.
+Succès depuis le debut: 27/500
+Epsilon = 0.60 à l'épisode 258 | 
+
+
+Épisode 258 --------------------------------------------------
+Objectif atteint à l’épisode 259 en 8 étapes.
+Succès depuis le debut: 28/500
+Epsilon = 0.60 à l'épisode 259 | 
+
+
+Épisode 259 --------------------------------------------------
+Objectif atteint à l’épisode 260 en 10 étapes.
+Succès depuis le debut: 29/500
+Epsilon = 0.60 à l'épisode 260 | 
+
+
+Épisode 260 --------------------------------------------------
+Tombé dans un trou à l’épisode 261 en 2 étapes.
+Succès depuis le debut: 29/500
+Epsilon = 0.60 à l'épisode 261 | 
+
+
+Épisode 261 --------------------------------------------------
+Objectif atteint à l’épisode 262 en 6 étapes.
+Succès depuis le debut: 30/500
+Epsilon = 0.60 à l'épisode 262 | 
+
+
+Épisode 262 --------------------------------------------------
+Tombé dans un trou à l’épisode 263 en 11 étapes.
+Succès depuis le debut: 30/500
+Epsilon = 0.60 à l'épisode 263 | 
+
+
+Épisode 263 --------------------------------------------------
+Objectif atteint à l’épisode 264 en 8 étapes.
+Succès depuis le debut: 31/500
+Epsilon = 0.60 à l'épisode 264 | 
+
+
+Épisode 264 --------------------------------------------------
+Tombé dans un trou à l’épisode 265 en 2 étapes.
+Succès depuis le debut: 31/500
+Epsilon = 0.60 à l'épisode 265 | 
+
+
+Épisode 265 --------------------------------------------------
+Objectif atteint à l’épisode 266 en 8 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 266 | 
+
+
+Épisode 266 --------------------------------------------------
+Tombé dans un trou à l’épisode 267 en 5 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 267 | 
+
+
+Épisode 267 --------------------------------------------------
+Tombé dans un trou à l’épisode 268 en 7 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 268 | 
+
+
+Épisode 268 --------------------------------------------------
+Tombé dans un trou à l’épisode 269 en 3 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 269 | 
+
+
+Épisode 269 --------------------------------------------------
+Tombé dans un trou à l’épisode 270 en 7 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 270 | 
+
+
+Épisode 270 --------------------------------------------------
+Tombé dans un trou à l’épisode 271 en 15 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 271 | 
+
+
+Épisode 271 --------------------------------------------------
+Tombé dans un trou à l’épisode 272 en 2 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 272 | 
+
+
+Épisode 272 --------------------------------------------------
+Tombé dans un trou à l’épisode 273 en 3 étapes.
+Succès depuis le debut: 32/500
+Epsilon = 0.60 à l'épisode 273 | 
+
+
+Épisode 273 --------------------------------------------------
+Objectif atteint à l’épisode 274 en 6 étapes.
+Succès depuis le debut: 33/500
+Epsilon = 0.60 à l'épisode 274 | 
+
+
+Épisode 274 --------------------------------------------------
+Objectif atteint à l’épisode 275 en 8 étapes.
+Succès depuis le debut: 34/500
+Epsilon = 0.60 à l'épisode 275 | 
+
+
+Épisode 275 --------------------------------------------------
+Objectif atteint à l’épisode 276 en 8 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 276 | 
+
+
+Épisode 276 --------------------------------------------------
+Tombé dans un trou à l’épisode 277 en 2 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 277 | 
+
+
+Épisode 277 --------------------------------------------------
+Tombé dans un trou à l’épisode 278 en 3 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 278 | 
+
+
+Épisode 278 --------------------------------------------------
+Tombé dans un trou à l’épisode 279 en 2 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 279 | 
+
+
+Épisode 279 --------------------------------------------------
+Tombé dans un trou à l’épisode 280 en 2 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 280 | 
+
+
+Épisode 280 --------------------------------------------------
+Tombé dans un trou à l’épisode 281 en 5 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 281 | 
+
+
+Épisode 281 --------------------------------------------------
+Tombé dans un trou à l’épisode 282 en 7 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 282 | 
+
+
+Épisode 282 --------------------------------------------------
+Tombé dans un trou à l’épisode 283 en 9 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 283 | 
+
+
+Épisode 283 --------------------------------------------------
+Tombé dans un trou à l’épisode 284 en 2 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 284 | 
+
+
+Épisode 284 --------------------------------------------------
+Tombé dans un trou à l’épisode 285 en 5 étapes.
+Succès depuis le debut: 35/500
+Epsilon = 0.60 à l'épisode 285 | 
+
+
+Épisode 285 --------------------------------------------------
+Objectif atteint à l’épisode 286 en 12 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 286 | 
+
+
+Épisode 286 --------------------------------------------------
+Tombé dans un trou à l’épisode 287 en 3 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 287 | 
+
+
+Épisode 287 --------------------------------------------------
+Tombé dans un trou à l’épisode 288 en 2 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 288 | 
+
+
+Épisode 288 --------------------------------------------------
+Tombé dans un trou à l’épisode 289 en 4 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 289 | 
+
+
+Épisode 289 --------------------------------------------------
+Tombé dans un trou à l’épisode 290 en 4 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 290 | 
+
+
+Épisode 290 --------------------------------------------------
+Tombé dans un trou à l’épisode 291 en 13 étapes.
+Succès depuis le debut: 36/500
+Epsilon = 0.60 à l'épisode 291 | 
+
+
+Épisode 291 --------------------------------------------------
+Objectif atteint à l’épisode 292 en 12 étapes.
+Succès depuis le debut: 37/500
+Epsilon = 0.60 à l'épisode 292 | 
+
+
+Épisode 292 --------------------------------------------------
+Objectif atteint à l’épisode 293 en 10 étapes.
+Succès depuis le debut: 38/500
+Epsilon = 0.60 à l'épisode 293 | 
+
+
+Épisode 293 --------------------------------------------------
+Objectif atteint à l’épisode 294 en 6 étapes.
+Succès depuis le debut: 39/500
+Epsilon = 0.60 à l'épisode 294 | 
+
+
+Épisode 294 --------------------------------------------------
+Objectif atteint à l’épisode 295 en 10 étapes.
+Succès depuis le debut: 40/500
+Epsilon = 0.60 à l'épisode 295 | 
+
+
+Épisode 295 --------------------------------------------------
+Tombé dans un trou à l’épisode 296 en 4 étapes.
+Succès depuis le debut: 40/500
+Epsilon = 0.60 à l'épisode 296 | 
+
+
+Épisode 296 --------------------------------------------------
+Objectif atteint à l’épisode 297 en 10 étapes.
+Succès depuis le debut: 41/500
+Epsilon = 0.60 à l'épisode 297 | 
+
+
+Épisode 297 --------------------------------------------------
+Tombé dans un trou à l’épisode 298 en 4 étapes.
+Succès depuis le debut: 41/500
+Epsilon = 0.60 à l'épisode 298 | 
+
+
+Épisode 298 --------------------------------------------------
+Tombé dans un trou à l’épisode 299 en 2 étapes.
+Succès depuis le debut: 41/500
+Epsilon = 0.60 à l'épisode 299 | 
+
+
+Épisode 299 --------------------------------------------------
+Objectif atteint à l’épisode 300 en 6 étapes.
+Succès depuis le debut: 42/500
+Epsilon = 0.60 à l'épisode 300 | 
+
+
+Épisode 300 --------------------------------------------------
+Objectif atteint à l’épisode 301 en 12 étapes.
+Succès depuis le debut: 43/500
+Epsilon = 0.40 à l'épisode 301 | 
+
+
+Épisode 301 --------------------------------------------------
+Objectif atteint à l’épisode 302 en 10 étapes.
+Succès depuis le debut: 44/500
+Epsilon = 0.40 à l'épisode 302 | 
+
+
+Épisode 302 --------------------------------------------------
+Objectif atteint à l’épisode 303 en 8 étapes.
+Succès depuis le debut: 45/500
+Epsilon = 0.40 à l'épisode 303 | 
+
+
+Épisode 303 --------------------------------------------------
+Objectif atteint à l’épisode 304 en 6 étapes.
+Succès depuis le debut: 46/500
+Epsilon = 0.40 à l'épisode 304 | 
+
+
+Épisode 304 --------------------------------------------------
+Tombé dans un trou à l’épisode 305 en 4 étapes.
+Succès depuis le debut: 46/500
+Epsilon = 0.40 à l'épisode 305 | 
+
+
+Épisode 305 --------------------------------------------------
+Tombé dans un trou à l’épisode 306 en 3 étapes.
+Succès depuis le debut: 46/500
+Epsilon = 0.40 à l'épisode 306 | 
+
+
+Épisode 306 --------------------------------------------------
+Tombé dans un trou à l’épisode 307 en 5 étapes.
+Succès depuis le debut: 46/500
+Epsilon = 0.40 à l'épisode 307 | 
+
+
+Épisode 307 --------------------------------------------------
+Objectif atteint à l’épisode 308 en 8 étapes.
+Succès depuis le debut: 47/500
+Epsilon = 0.40 à l'épisode 308 | 
+
+
+Épisode 308 --------------------------------------------------
+Tombé dans un trou à l’épisode 309 en 5 étapes.
+Succès depuis le debut: 47/500
+Epsilon = 0.40 à l'épisode 309 | 
+
+
+Épisode 309 --------------------------------------------------
+Objectif atteint à l’épisode 310 en 10 étapes.
+Succès depuis le debut: 48/500
+Epsilon = 0.40 à l'épisode 310 | 
+
+
+Épisode 310 --------------------------------------------------
+Objectif atteint à l’épisode 311 en 6 étapes.
+Succès depuis le debut: 49/500
+Epsilon = 0.40 à l'épisode 311 | 
+
+
+Épisode 311 --------------------------------------------------
+Tombé dans un trou à l’épisode 312 en 3 étapes.
+Succès depuis le debut: 49/500
+Epsilon = 0.40 à l'épisode 312 | 
+
+
+Épisode 312 --------------------------------------------------
+Tombé dans un trou à l’épisode 313 en 2 étapes.
+Succès depuis le debut: 49/500
+Epsilon = 0.40 à l'épisode 313 | 
+
+
+Épisode 313 --------------------------------------------------
+Tombé dans un trou à l’épisode 314 en 7 étapes.
+Succès depuis le debut: 49/500
+Epsilon = 0.40 à l'épisode 314 | 
+
+
+Épisode 314 --------------------------------------------------
+Objectif atteint à l’épisode 315 en 6 étapes.
+Succès depuis le debut: 50/500
+Epsilon = 0.40 à l'épisode 315 | 
+
+
+Épisode 315 --------------------------------------------------
+Tombé dans un trou à l’épisode 316 en 4 étapes.
+Succès depuis le debut: 50/500
+Epsilon = 0.40 à l'épisode 316 | 
+
+
+Épisode 316 --------------------------------------------------
+Tombé dans un trou à l’épisode 317 en 2 étapes.
+Succès depuis le debut: 50/500
+Epsilon = 0.40 à l'épisode 317 | 
+
+
+Épisode 317 --------------------------------------------------
+Objectif atteint à l’épisode 318 en 8 étapes.
+Succès depuis le debut: 51/500
+Epsilon = 0.40 à l'épisode 318 | 
+
+
+Épisode 318 --------------------------------------------------
+Objectif atteint à l’épisode 319 en 8 étapes.
+Succès depuis le debut: 52/500
+Epsilon = 0.40 à l'épisode 319 | 
+
+
+Épisode 319 --------------------------------------------------
+Tombé dans un trou à l’épisode 320 en 5 étapes.
+Succès depuis le debut: 52/500
+Epsilon = 0.40 à l'épisode 320 | 
+
+
+Épisode 320 --------------------------------------------------
+Tombé dans un trou à l’épisode 321 en 5 étapes.
+Succès depuis le debut: 52/500
+Epsilon = 0.40 à l'épisode 321 | 
+
+
+Épisode 321 --------------------------------------------------
+Objectif atteint à l’épisode 322 en 10 étapes.
+Succès depuis le debut: 53/500
+Epsilon = 0.40 à l'épisode 322 | 
+
+
+Épisode 322 --------------------------------------------------
+Objectif atteint à l’épisode 323 en 8 étapes.
+Succès depuis le debut: 54/500
+Epsilon = 0.40 à l'épisode 323 | 
+
+
+Épisode 323 --------------------------------------------------
+Tombé dans un trou à l’épisode 324 en 6 étapes.
+Succès depuis le debut: 54/500
+Epsilon = 0.40 à l'épisode 324 | 
+
+
+Épisode 324 --------------------------------------------------
+Objectif atteint à l’épisode 325 en 6 étapes.
+Succès depuis le debut: 55/500
+Epsilon = 0.40 à l'épisode 325 | 
+
+
+Épisode 325 --------------------------------------------------
+Tombé dans un trou à l’épisode 326 en 4 étapes.
+Succès depuis le debut: 55/500
+Epsilon = 0.40 à l'épisode 326 | 
+
+
+Épisode 326 --------------------------------------------------
+Tombé dans un trou à l’épisode 327 en 4 étapes.
+Succès depuis le debut: 55/500
+Epsilon = 0.40 à l'épisode 327 | 
+
+
+Épisode 327 --------------------------------------------------
+Tombé dans un trou à l’épisode 328 en 8 étapes.
+Succès depuis le debut: 55/500
+Epsilon = 0.40 à l'épisode 328 | 
+
+
+Épisode 328 --------------------------------------------------
+Objectif atteint à l’épisode 329 en 8 étapes.
+Succès depuis le debut: 56/500
+Epsilon = 0.40 à l'épisode 329 | 
+
+
+Épisode 329 --------------------------------------------------
+Objectif atteint à l’épisode 330 en 6 étapes.
+Succès depuis le debut: 57/500
+Epsilon = 0.40 à l'épisode 330 | 
+
+
+Épisode 330 --------------------------------------------------
+Objectif atteint à l’épisode 331 en 12 étapes.
+Succès depuis le debut: 58/500
+Epsilon = 0.40 à l'épisode 331 | 
+
+
+Épisode 331 --------------------------------------------------
+Tombé dans un trou à l’épisode 332 en 3 étapes.
+Succès depuis le debut: 58/500
+Epsilon = 0.40 à l'épisode 332 | 
+
+
+Épisode 332 --------------------------------------------------
+Objectif atteint à l’épisode 333 en 12 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 333 | 
+
+
+Épisode 333 --------------------------------------------------
+Tombé dans un trou à l’épisode 334 en 4 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 334 | 
+
+
+Épisode 334 --------------------------------------------------
+Tombé dans un trou à l’épisode 335 en 5 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 335 | 
+
+
+Épisode 335 --------------------------------------------------
+Tombé dans un trou à l’épisode 336 en 2 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 336 | 
+
+
+Épisode 336 --------------------------------------------------
+Tombé dans un trou à l’épisode 337 en 2 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 337 | 
+
+
+Épisode 337 --------------------------------------------------
+Tombé dans un trou à l’épisode 338 en 2 étapes.
+Succès depuis le debut: 59/500
+Epsilon = 0.40 à l'épisode 338 | 
+
+
+Épisode 338 --------------------------------------------------
+Objectif atteint à l’épisode 339 en 6 étapes.
+Succès depuis le debut: 60/500
+Epsilon = 0.40 à l'épisode 339 | 
+
+
+Épisode 339 --------------------------------------------------
+Tombé dans un trou à l’épisode 340 en 2 étapes.
+Succès depuis le debut: 60/500
+Epsilon = 0.40 à l'épisode 340 | 
+
+
+Épisode 340 --------------------------------------------------
+Objectif atteint à l’épisode 341 en 6 étapes.
+Succès depuis le debut: 61/500
+Epsilon = 0.40 à l'épisode 341 | 
+
+
+Épisode 341 --------------------------------------------------
+Objectif atteint à l’épisode 342 en 6 étapes.
+Succès depuis le debut: 62/500
+Epsilon = 0.40 à l'épisode 342 | 
+
+
+Épisode 342 --------------------------------------------------
+Objectif atteint à l’épisode 343 en 6 étapes.
+Succès depuis le debut: 63/500
+Epsilon = 0.40 à l'épisode 343 | 
+
+
+Épisode 343 --------------------------------------------------
+Objectif atteint à l’épisode 344 en 6 étapes.
+Succès depuis le debut: 64/500
+Epsilon = 0.40 à l'épisode 344 | 
+
+
+Épisode 344 --------------------------------------------------
+Objectif atteint à l’épisode 345 en 6 étapes.
+Succès depuis le debut: 65/500
+Epsilon = 0.40 à l'épisode 345 | 
+
+
+Épisode 345 --------------------------------------------------
+Objectif atteint à l’épisode 346 en 8 étapes.
+Succès depuis le debut: 66/500
+Epsilon = 0.40 à l'épisode 346 | 
+
+
+Épisode 346 --------------------------------------------------
+Objectif atteint à l’épisode 347 en 6 étapes.
+Succès depuis le debut: 67/500
+Epsilon = 0.40 à l'épisode 347 | 
+
+
+Épisode 347 --------------------------------------------------
+Objectif atteint à l’épisode 348 en 8 étapes.
+Succès depuis le debut: 68/500
+Epsilon = 0.40 à l'épisode 348 | 
+
+
+Épisode 348 --------------------------------------------------
+Tombé dans un trou à l’épisode 349 en 4 étapes.
+Succès depuis le debut: 68/500
+Epsilon = 0.40 à l'épisode 349 | 
+
+
+Épisode 349 --------------------------------------------------
+Tombé dans un trou à l’épisode 350 en 4 étapes.
+Succès depuis le debut: 68/500
+Epsilon = 0.40 à l'épisode 350 | 
+
+
+Épisode 350 --------------------------------------------------
+Tombé dans un trou à l’épisode 351 en 3 étapes.
+Succès depuis le debut: 68/500
+Epsilon = 0.40 à l'épisode 351 | 
+
+
+Épisode 351 --------------------------------------------------
+Objectif atteint à l’épisode 352 en 8 étapes.
+Succès depuis le debut: 69/500
+Epsilon = 0.40 à l'épisode 352 | 
+
+
+Épisode 352 --------------------------------------------------
+Tombé dans un trou à l’épisode 353 en 3 étapes.
+Succès depuis le debut: 69/500
+Epsilon = 0.40 à l'épisode 353 | 
+
+
+Épisode 353 --------------------------------------------------
+Tombé dans un trou à l’épisode 354 en 7 étapes.
+Succès depuis le debut: 69/500
+Epsilon = 0.40 à l'épisode 354 | 
+
+
+Épisode 354 --------------------------------------------------
+Tombé dans un trou à l’épisode 355 en 2 étapes.
+Succès depuis le debut: 69/500
+Epsilon = 0.40 à l'épisode 355 | 
+
+
+Épisode 355 --------------------------------------------------
+Objectif atteint à l’épisode 356 en 8 étapes.
+Succès depuis le debut: 70/500
+Epsilon = 0.40 à l'épisode 356 | 
+
+
+Épisode 356 --------------------------------------------------
+Tombé dans un trou à l’épisode 357 en 2 étapes.
+Succès depuis le debut: 70/500
+Epsilon = 0.40 à l'épisode 357 | 
+
+
+Épisode 357 --------------------------------------------------
+Objectif atteint à l’épisode 358 en 8 étapes.
+Succès depuis le debut: 71/500
+Epsilon = 0.40 à l'épisode 358 | 
+
+
+Épisode 358 --------------------------------------------------
+Objectif atteint à l’épisode 359 en 6 étapes.
+Succès depuis le debut: 72/500
+Epsilon = 0.40 à l'épisode 359 | 
+
+
+Épisode 359 --------------------------------------------------
+Objectif atteint à l’épisode 360 en 8 étapes.
+Succès depuis le debut: 73/500
+Epsilon = 0.40 à l'épisode 360 | 
+
+
+Épisode 360 --------------------------------------------------
+Tombé dans un trou à l’épisode 361 en 4 étapes.
+Succès depuis le debut: 73/500
+Epsilon = 0.40 à l'épisode 361 | 
+
+
+Épisode 361 --------------------------------------------------
+Objectif atteint à l’épisode 362 en 8 étapes.
+Succès depuis le debut: 74/500
+Epsilon = 0.40 à l'épisode 362 | 
+
+
+Épisode 362 --------------------------------------------------
+Objectif atteint à l’épisode 363 en 8 étapes.
+Succès depuis le debut: 75/500
+Epsilon = 0.40 à l'épisode 363 | 
+
+
+Épisode 363 --------------------------------------------------
+Tombé dans un trou à l’épisode 364 en 2 étapes.
+Succès depuis le debut: 75/500
+Epsilon = 0.40 à l'épisode 364 | 
+
+
+Épisode 364 --------------------------------------------------
+Tombé dans un trou à l’épisode 365 en 2 étapes.
+Succès depuis le debut: 75/500
+Epsilon = 0.40 à l'épisode 365 | 
+
+
+Épisode 365 --------------------------------------------------
+Objectif atteint à l’épisode 366 en 6 étapes.
+Succès depuis le debut: 76/500
+Epsilon = 0.40 à l'épisode 366 | 
+
+
+Épisode 366 --------------------------------------------------
+Objectif atteint à l’épisode 367 en 8 étapes.
+Succès depuis le debut: 77/500
+Epsilon = 0.40 à l'épisode 367 | 
+
+
+Épisode 367 --------------------------------------------------
+Objectif atteint à l’épisode 368 en 6 étapes.
+Succès depuis le debut: 78/500
+Epsilon = 0.40 à l'épisode 368 | 
+
+
+Épisode 368 --------------------------------------------------
+Objectif atteint à l’épisode 369 en 6 étapes.
+Succès depuis le debut: 79/500
+Epsilon = 0.40 à l'épisode 369 | 
+
+
+Épisode 369 --------------------------------------------------
+Objectif atteint à l’épisode 370 en 6 étapes.
+Succès depuis le debut: 80/500
+Epsilon = 0.40 à l'épisode 370 | 
+
+
+Épisode 370 --------------------------------------------------
+Objectif atteint à l’épisode 371 en 6 étapes.
+Succès depuis le debut: 81/500
+Epsilon = 0.40 à l'épisode 371 | 
+
+
+Épisode 371 --------------------------------------------------
+Objectif atteint à l’épisode 372 en 6 étapes.
+Succès depuis le debut: 82/500
+Epsilon = 0.40 à l'épisode 372 | 
+
+
+Épisode 372 --------------------------------------------------
+Tombé dans un trou à l’épisode 373 en 4 étapes.
+Succès depuis le debut: 82/500
+Epsilon = 0.40 à l'épisode 373 | 
+
+
+Épisode 373 --------------------------------------------------
+Objectif atteint à l’épisode 374 en 6 étapes.
+Succès depuis le debut: 83/500
+Epsilon = 0.40 à l'épisode 374 | 
+
+
+Épisode 374 --------------------------------------------------
+Objectif atteint à l’épisode 375 en 10 étapes.
+Succès depuis le debut: 84/500
+Epsilon = 0.40 à l'épisode 375 | 
+
+
+Épisode 375 --------------------------------------------------
+Objectif atteint à l’épisode 376 en 10 étapes.
+Succès depuis le debut: 85/500
+Epsilon = 0.40 à l'épisode 376 | 
+
+
+Épisode 376 --------------------------------------------------
+Objectif atteint à l’épisode 377 en 12 étapes.
+Succès depuis le debut: 86/500
+Epsilon = 0.40 à l'épisode 377 | 
+
+
+Épisode 377 --------------------------------------------------
+Tombé dans un trou à l’épisode 378 en 5 étapes.
+Succès depuis le debut: 86/500
+Epsilon = 0.40 à l'épisode 378 | 
+
+
+Épisode 378 --------------------------------------------------
+Tombé dans un trou à l’épisode 379 en 4 étapes.
+Succès depuis le debut: 86/500
+Epsilon = 0.40 à l'épisode 379 | 
+
+
+Épisode 379 --------------------------------------------------
+Tombé dans un trou à l’épisode 380 en 4 étapes.
+Succès depuis le debut: 86/500
+Epsilon = 0.40 à l'épisode 380 | 
+
+
+Épisode 380 --------------------------------------------------
+Objectif atteint à l’épisode 381 en 6 étapes.
+Succès depuis le debut: 87/500
+Epsilon = 0.40 à l'épisode 381 | 
+
+
+Épisode 381 --------------------------------------------------
+Objectif atteint à l’épisode 382 en 6 étapes.
+Succès depuis le debut: 88/500
+Epsilon = 0.40 à l'épisode 382 | 
+
+
+Épisode 382 --------------------------------------------------
+Objectif atteint à l’épisode 383 en 8 étapes.
+Succès depuis le debut: 89/500
+Epsilon = 0.40 à l'épisode 383 | 
+
+
+Épisode 383 --------------------------------------------------
+Objectif atteint à l’épisode 384 en 6 étapes.
+Succès depuis le debut: 90/500
+Epsilon = 0.40 à l'épisode 384 | 
+
+
+Épisode 384 --------------------------------------------------
+Objectif atteint à l’épisode 385 en 6 étapes.
+Succès depuis le debut: 91/500
+Epsilon = 0.40 à l'épisode 385 | 
+
+
+Épisode 385 --------------------------------------------------
+Objectif atteint à l’épisode 386 en 10 étapes.
+Succès depuis le debut: 92/500
+Epsilon = 0.40 à l'épisode 386 | 
+
+
+Épisode 386 --------------------------------------------------
+Objectif atteint à l’épisode 387 en 8 étapes.
+Succès depuis le debut: 93/500
+Epsilon = 0.40 à l'épisode 387 | 
+
+
+Épisode 387 --------------------------------------------------
+Objectif atteint à l’épisode 388 en 8 étapes.
+Succès depuis le debut: 94/500
+Epsilon = 0.40 à l'épisode 388 | 
+
+
+Épisode 388 --------------------------------------------------
+Tombé dans un trou à l’épisode 389 en 2 étapes.
+Succès depuis le debut: 94/500
+Epsilon = 0.40 à l'épisode 389 | 
+
+
+Épisode 389 --------------------------------------------------
+Tombé dans un trou à l’épisode 390 en 9 étapes.
+Succès depuis le debut: 94/500
+Epsilon = 0.40 à l'épisode 390 | 
+
+
+Épisode 390 --------------------------------------------------
+Tombé dans un trou à l’épisode 391 en 4 étapes.
+Succès depuis le debut: 94/500
+Epsilon = 0.40 à l'épisode 391 | 
+
+
+Épisode 391 --------------------------------------------------
+Objectif atteint à l’épisode 392 en 6 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 392 | 
+
+
+Épisode 392 --------------------------------------------------
+Tombé dans un trou à l’épisode 393 en 5 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 393 | 
+
+
+Épisode 393 --------------------------------------------------
+Tombé dans un trou à l’épisode 394 en 4 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 394 | 
+
+
+Épisode 394 --------------------------------------------------
+Tombé dans un trou à l’épisode 395 en 3 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 395 | 
+
+
+Épisode 395 --------------------------------------------------
+Tombé dans un trou à l’épisode 396 en 7 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 396 | 
+
+
+Épisode 396 --------------------------------------------------
+Tombé dans un trou à l’épisode 397 en 4 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 397 | 
+
+
+Épisode 397 --------------------------------------------------
+Tombé dans un trou à l’épisode 398 en 4 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 398 | 
+
+
+Épisode 398 --------------------------------------------------
+Tombé dans un trou à l’épisode 399 en 2 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 399 | 
+
+
+Épisode 399 --------------------------------------------------
+Tombé dans un trou à l’épisode 400 en 3 étapes.
+Succès depuis le debut: 95/500
+Epsilon = 0.40 à l'épisode 400 | 
+
+
+Épisode 400 --------------------------------------------------
+Objectif atteint à l’épisode 401 en 6 étapes.
+Succès depuis le debut: 96/500
+Epsilon = 0.00 à l'épisode 401 | 
+
+
+Épisode 401 --------------------------------------------------
+Objectif atteint à l’épisode 402 en 6 étapes.
+Succès depuis le debut: 97/500
+Epsilon = 0.00 à l'épisode 402 | 
+
+
+Épisode 402 --------------------------------------------------
+Objectif atteint à l’épisode 403 en 6 étapes.
+Succès depuis le debut: 98/500
+Epsilon = 0.00 à l'épisode 403 | 
+
+
+Épisode 403 --------------------------------------------------
+Objectif atteint à l’épisode 404 en 6 étapes.
+Succès depuis le debut: 99/500
+Epsilon = 0.00 à l'épisode 404 | 
+
+
+Épisode 404 --------------------------------------------------
+Objectif atteint à l’épisode 405 en 6 étapes.
+Succès depuis le debut: 100/500
+Epsilon = 0.00 à l'épisode 405 | 
+
+
+Épisode 405 --------------------------------------------------
+Objectif atteint à l’épisode 406 en 6 étapes.
+Succès depuis le debut: 101/500
+Epsilon = 0.00 à l'épisode 406 | 
+
+
+Épisode 406 --------------------------------------------------
+Objectif atteint à l’épisode 407 en 6 étapes.
+Succès depuis le debut: 102/500
+Epsilon = 0.00 à l'épisode 407 | 
+
+
+Épisode 407 --------------------------------------------------
+Objectif atteint à l’épisode 408 en 6 étapes.
+Succès depuis le debut: 103/500
+Epsilon = 0.00 à l'épisode 408 | 
+
+
+Épisode 408 --------------------------------------------------
+Objectif atteint à l’épisode 409 en 6 étapes.
+Succès depuis le debut: 104/500
+Epsilon = 0.00 à l'épisode 409 | 
+
+
+Épisode 409 --------------------------------------------------
+Objectif atteint à l’épisode 410 en 6 étapes.
+Succès depuis le debut: 105/500
+Epsilon = 0.00 à l'épisode 410 | 
+
+
+Épisode 410 --------------------------------------------------
+Objectif atteint à l’épisode 411 en 6 étapes.
+Succès depuis le debut: 106/500
+Epsilon = 0.00 à l'épisode 411 | 
+
+
+Épisode 411 --------------------------------------------------
+Objectif atteint à l’épisode 412 en 6 étapes.
+Succès depuis le debut: 107/500
+Epsilon = 0.00 à l'épisode 412 | 
+
+
+Épisode 412 --------------------------------------------------
+Objectif atteint à l’épisode 413 en 6 étapes.
+Succès depuis le debut: 108/500
+Epsilon = 0.00 à l'épisode 413 | 
+
+
+Épisode 413 --------------------------------------------------
+Objectif atteint à l’épisode 414 en 6 étapes.
+Succès depuis le debut: 109/500
+Epsilon = 0.00 à l'épisode 414 | 
+
+
+Épisode 414 --------------------------------------------------
+Objectif atteint à l’épisode 415 en 6 étapes.
+Succès depuis le debut: 110/500
+Epsilon = 0.00 à l'épisode 415 | 
+
+
+Épisode 415 --------------------------------------------------
+Objectif atteint à l’épisode 416 en 6 étapes.
+Succès depuis le debut: 111/500
+Epsilon = 0.00 à l'épisode 416 | 
+
+
+Épisode 416 --------------------------------------------------
+Objectif atteint à l’épisode 417 en 6 étapes.
+Succès depuis le debut: 112/500
+Epsilon = 0.00 à l'épisode 417 | 
+
+
+Épisode 417 --------------------------------------------------
+Objectif atteint à l’épisode 418 en 6 étapes.
+Succès depuis le debut: 113/500
+Epsilon = 0.00 à l'épisode 418 | 
+
+
+Épisode 418 --------------------------------------------------
+Objectif atteint à l’épisode 419 en 6 étapes.
+Succès depuis le debut: 114/500
+Epsilon = 0.00 à l'épisode 419 | 
+
+
+Épisode 419 --------------------------------------------------
+Objectif atteint à l’épisode 420 en 6 étapes.
+Succès depuis le debut: 115/500
+Epsilon = 0.00 à l'épisode 420 | 
+
+
+Épisode 420 --------------------------------------------------
+Objectif atteint à l’épisode 421 en 6 étapes.
+Succès depuis le debut: 116/500
+Epsilon = 0.00 à l'épisode 421 | 
+
+
+Épisode 421 --------------------------------------------------
+Objectif atteint à l’épisode 422 en 6 étapes.
+Succès depuis le debut: 117/500
+Epsilon = 0.00 à l'épisode 422 | 
+
+
+Épisode 422 --------------------------------------------------
+Objectif atteint à l’épisode 423 en 6 étapes.
+Succès depuis le debut: 118/500
+Epsilon = 0.00 à l'épisode 423 | 
+
+
+Épisode 423 --------------------------------------------------
+Objectif atteint à l’épisode 424 en 6 étapes.
+Succès depuis le debut: 119/500
+Epsilon = 0.00 à l'épisode 424 | 
+
+
+Épisode 424 --------------------------------------------------
+Objectif atteint à l’épisode 425 en 6 étapes.
+Succès depuis le debut: 120/500
+Epsilon = 0.00 à l'épisode 425 | 
+
+
+Épisode 425 --------------------------------------------------
+Objectif atteint à l’épisode 426 en 6 étapes.
+Succès depuis le debut: 121/500
+Epsilon = 0.00 à l'épisode 426 | 
+
+
+Épisode 426 --------------------------------------------------
+Objectif atteint à l’épisode 427 en 6 étapes.
+Succès depuis le debut: 122/500
+Epsilon = 0.00 à l'épisode 427 | 
+
+
+Épisode 427 --------------------------------------------------
+Objectif atteint à l’épisode 428 en 6 étapes.
+Succès depuis le debut: 123/500
+Epsilon = 0.00 à l'épisode 428 | 
+
+
+Épisode 428 --------------------------------------------------
+Objectif atteint à l’épisode 429 en 6 étapes.
+Succès depuis le debut: 124/500
+Epsilon = 0.00 à l'épisode 429 | 
+
+
+Épisode 429 --------------------------------------------------
+Objectif atteint à l’épisode 430 en 6 étapes.
+Succès depuis le debut: 125/500
+Epsilon = 0.00 à l'épisode 430 | 
+
+
+Épisode 430 --------------------------------------------------
+Objectif atteint à l’épisode 431 en 6 étapes.
+Succès depuis le debut: 126/500
+Epsilon = 0.00 à l'épisode 431 | 
+
+
+Épisode 431 --------------------------------------------------
+Objectif atteint à l’épisode 432 en 6 étapes.
+Succès depuis le debut: 127/500
+Epsilon = 0.00 à l'épisode 432 | 
+
+
+Épisode 432 --------------------------------------------------
+Objectif atteint à l’épisode 433 en 6 étapes.
+Succès depuis le debut: 128/500
+Epsilon = 0.00 à l'épisode 433 | 
+
+
+Épisode 433 --------------------------------------------------
+Objectif atteint à l’épisode 434 en 6 étapes.
+Succès depuis le debut: 129/500
+Epsilon = 0.00 à l'épisode 434 | 
+
+
+Épisode 434 --------------------------------------------------
+Objectif atteint à l’épisode 435 en 6 étapes.
+Succès depuis le debut: 130/500
+Epsilon = 0.00 à l'épisode 435 | 
+
+
+Épisode 435 --------------------------------------------------
+Objectif atteint à l’épisode 436 en 6 étapes.
+Succès depuis le debut: 131/500
+Epsilon = 0.00 à l'épisode 436 | 
+
+
+Épisode 436 --------------------------------------------------
+Objectif atteint à l’épisode 437 en 6 étapes.
+Succès depuis le debut: 132/500
+Epsilon = 0.00 à l'épisode 437 | 
+
+
+Épisode 437 --------------------------------------------------
+Objectif atteint à l’épisode 438 en 6 étapes.
+Succès depuis le debut: 133/500
+Epsilon = 0.00 à l'épisode 438 | 
+
+
+Épisode 438 --------------------------------------------------
+Objectif atteint à l’épisode 439 en 6 étapes.
+Succès depuis le debut: 134/500
+Epsilon = 0.00 à l'épisode 439 | 
+
+
+Épisode 439 --------------------------------------------------
+Objectif atteint à l’épisode 440 en 6 étapes.
+Succès depuis le debut: 135/500
+Epsilon = 0.00 à l'épisode 440 | 
+
+
+Épisode 440 --------------------------------------------------
+Objectif atteint à l’épisode 441 en 6 étapes.
+Succès depuis le debut: 136/500
+Epsilon = 0.00 à l'épisode 441 | 
+
+
+Épisode 441 --------------------------------------------------
+Objectif atteint à l’épisode 442 en 6 étapes.
+Succès depuis le debut: 137/500
+Epsilon = 0.00 à l'épisode 442 | 
+
+
+Épisode 442 --------------------------------------------------
+Objectif atteint à l’épisode 443 en 6 étapes.
+Succès depuis le debut: 138/500
+Epsilon = 0.00 à l'épisode 443 | 
+
+
+Épisode 443 --------------------------------------------------
+Objectif atteint à l’épisode 444 en 6 étapes.
+Succès depuis le debut: 139/500
+Epsilon = 0.00 à l'épisode 444 | 
+
+
+Épisode 444 --------------------------------------------------
+Objectif atteint à l’épisode 445 en 6 étapes.
+Succès depuis le debut: 140/500
+Epsilon = 0.00 à l'épisode 445 | 
+
+
+Épisode 445 --------------------------------------------------
+Objectif atteint à l’épisode 446 en 6 étapes.
+Succès depuis le debut: 141/500
+Epsilon = 0.00 à l'épisode 446 | 
+
+
+Épisode 446 --------------------------------------------------
+Objectif atteint à l’épisode 447 en 6 étapes.
+Succès depuis le debut: 142/500
+Epsilon = 0.00 à l'épisode 447 | 
+
+
+Épisode 447 --------------------------------------------------
+Objectif atteint à l’épisode 448 en 6 étapes.
+Succès depuis le debut: 143/500
+Epsilon = 0.00 à l'épisode 448 | 
+
+
+Épisode 448 --------------------------------------------------
+Objectif atteint à l’épisode 449 en 6 étapes.
+Succès depuis le debut: 144/500
+Epsilon = 0.00 à l'épisode 449 | 
+
+
+Épisode 449 --------------------------------------------------
+Objectif atteint à l’épisode 450 en 6 étapes.
+Succès depuis le debut: 145/500
+Epsilon = 0.00 à l'épisode 450 | 
+
+
+Épisode 450 --------------------------------------------------
+Objectif atteint à l’épisode 451 en 6 étapes.
+Succès depuis le debut: 146/500
+Epsilon = 0.00 à l'épisode 451 | 
+
+
+Épisode 451 --------------------------------------------------
+Objectif atteint à l’épisode 452 en 6 étapes.
+Succès depuis le debut: 147/500
+Epsilon = 0.00 à l'épisode 452 | 
+
+
+Épisode 452 --------------------------------------------------
+Objectif atteint à l’épisode 453 en 6 étapes.
+Succès depuis le debut: 148/500
+Epsilon = 0.00 à l'épisode 453 | 
+
+
+Épisode 453 --------------------------------------------------
+Objectif atteint à l’épisode 454 en 6 étapes.
+Succès depuis le debut: 149/500
+Epsilon = 0.00 à l'épisode 454 | 
+
+
+Épisode 454 --------------------------------------------------
+Objectif atteint à l’épisode 455 en 6 étapes.
+Succès depuis le debut: 150/500
+Epsilon = 0.00 à l'épisode 455 | 
+
+
+Épisode 455 --------------------------------------------------
+Objectif atteint à l’épisode 456 en 6 étapes.
+Succès depuis le debut: 151/500
+Epsilon = 0.00 à l'épisode 456 | 
+
+
+Épisode 456 --------------------------------------------------
+Objectif atteint à l’épisode 457 en 6 étapes.
+Succès depuis le debut: 152/500
+Epsilon = 0.00 à l'épisode 457 | 
+
+
+Épisode 457 --------------------------------------------------
+Objectif atteint à l’épisode 458 en 6 étapes.
+Succès depuis le debut: 153/500
+Epsilon = 0.00 à l'épisode 458 | 
+
+
+Épisode 458 --------------------------------------------------
+Objectif atteint à l’épisode 459 en 6 étapes.
+Succès depuis le debut: 154/500
+Epsilon = 0.00 à l'épisode 459 | 
+
+
+Épisode 459 --------------------------------------------------
+Objectif atteint à l’épisode 460 en 6 étapes.
+Succès depuis le debut: 155/500
+Epsilon = 0.00 à l'épisode 460 | 
+
+
+Épisode 460 --------------------------------------------------
+Objectif atteint à l’épisode 461 en 6 étapes.
+Succès depuis le debut: 156/500
+Epsilon = 0.00 à l'épisode 461 | 
+
+
+Épisode 461 --------------------------------------------------
+Objectif atteint à l’épisode 462 en 6 étapes.
+Succès depuis le debut: 157/500
+Epsilon = 0.00 à l'épisode 462 | 
+
+
+Épisode 462 --------------------------------------------------
+Objectif atteint à l’épisode 463 en 6 étapes.
+Succès depuis le debut: 158/500
+Epsilon = 0.00 à l'épisode 463 | 
+
+
+Épisode 463 --------------------------------------------------
+Objectif atteint à l’épisode 464 en 6 étapes.
+Succès depuis le debut: 159/500
+Epsilon = 0.00 à l'épisode 464 | 
+
+
+Épisode 464 --------------------------------------------------
+Objectif atteint à l’épisode 465 en 6 étapes.
+Succès depuis le debut: 160/500
+Epsilon = 0.00 à l'épisode 465 | 
+
+
+Épisode 465 --------------------------------------------------
+Objectif atteint à l’épisode 466 en 6 étapes.
+Succès depuis le debut: 161/500
+Epsilon = 0.00 à l'épisode 466 | 
+
+
+Épisode 466 --------------------------------------------------
+Objectif atteint à l’épisode 467 en 6 étapes.
+Succès depuis le debut: 162/500
+Epsilon = 0.00 à l'épisode 467 | 
+
+
+Épisode 467 --------------------------------------------------
+Objectif atteint à l’épisode 468 en 6 étapes.
+Succès depuis le debut: 163/500
+Epsilon = 0.00 à l'épisode 468 | 
+
+
+Épisode 468 --------------------------------------------------
+Objectif atteint à l’épisode 469 en 6 étapes.
+Succès depuis le debut: 164/500
+Epsilon = 0.00 à l'épisode 469 | 
+
+
+Épisode 469 --------------------------------------------------
+Objectif atteint à l’épisode 470 en 6 étapes.
+Succès depuis le debut: 165/500
+Epsilon = 0.00 à l'épisode 470 | 
+
+
+Épisode 470 --------------------------------------------------
+Objectif atteint à l’épisode 471 en 6 étapes.
+Succès depuis le debut: 166/500
+Epsilon = 0.00 à l'épisode 471 | 
+
+
+Épisode 471 --------------------------------------------------
+Objectif atteint à l’épisode 472 en 6 étapes.
+Succès depuis le debut: 167/500
+Epsilon = 0.00 à l'épisode 472 | 
+
+
+Épisode 472 --------------------------------------------------
+Objectif atteint à l’épisode 473 en 6 étapes.
+Succès depuis le debut: 168/500
+Epsilon = 0.00 à l'épisode 473 | 
+
+
+Épisode 473 --------------------------------------------------
+Objectif atteint à l’épisode 474 en 6 étapes.
+Succès depuis le debut: 169/500
+Epsilon = 0.00 à l'épisode 474 | 
+
+
+Épisode 474 --------------------------------------------------
+Objectif atteint à l’épisode 475 en 6 étapes.
+Succès depuis le debut: 170/500
+Epsilon = 0.00 à l'épisode 475 | 
+
+
+Épisode 475 --------------------------------------------------
+Objectif atteint à l’épisode 476 en 6 étapes.
+Succès depuis le debut: 171/500
+Epsilon = 0.00 à l'épisode 476 | 
+
+
+Épisode 476 --------------------------------------------------
+Objectif atteint à l’épisode 477 en 6 étapes.
+Succès depuis le debut: 172/500
+Epsilon = 0.00 à l'épisode 477 | 
+
+
+Épisode 477 --------------------------------------------------
+Objectif atteint à l’épisode 478 en 6 étapes.
+Succès depuis le debut: 173/500
+Epsilon = 0.00 à l'épisode 478 | 
+
+
+Épisode 478 --------------------------------------------------
+Objectif atteint à l’épisode 479 en 6 étapes.
+Succès depuis le debut: 174/500
+Epsilon = 0.00 à l'épisode 479 | 
+
+
+Épisode 479 --------------------------------------------------
+Objectif atteint à l’épisode 480 en 6 étapes.
+Succès depuis le debut: 175/500
+Epsilon = 0.00 à l'épisode 480 | 
+
+
+Épisode 480 --------------------------------------------------
+Objectif atteint à l’épisode 481 en 6 étapes.
+Succès depuis le debut: 176/500
+Epsilon = 0.00 à l'épisode 481 | 
+
+
+Épisode 481 --------------------------------------------------
+Objectif atteint à l’épisode 482 en 6 étapes.
+Succès depuis le debut: 177/500
+Epsilon = 0.00 à l'épisode 482 | 
+
+
+Épisode 482 --------------------------------------------------
+Objectif atteint à l’épisode 483 en 6 étapes.
+Succès depuis le debut: 178/500
+Epsilon = 0.00 à l'épisode 483 | 
+
+
+Épisode 483 --------------------------------------------------
+Objectif atteint à l’épisode 484 en 6 étapes.
+Succès depuis le debut: 179/500
+Epsilon = 0.00 à l'épisode 484 | 
+
+
+Épisode 484 --------------------------------------------------
+Objectif atteint à l’épisode 485 en 6 étapes.
+Succès depuis le debut: 180/500
+Epsilon = 0.00 à l'épisode 485 | 
+
+
+Épisode 485 --------------------------------------------------
+Objectif atteint à l’épisode 486 en 6 étapes.
+Succès depuis le debut: 181/500
+Epsilon = 0.00 à l'épisode 486 | 
+
+
+Épisode 486 --------------------------------------------------
+Objectif atteint à l’épisode 487 en 6 étapes.
+Succès depuis le debut: 182/500
+Epsilon = 0.00 à l'épisode 487 | 
+
+
+Épisode 487 --------------------------------------------------
+Objectif atteint à l’épisode 488 en 6 étapes.
+Succès depuis le debut: 183/500
+Epsilon = 0.00 à l'épisode 488 | 
+
+
+Épisode 488 --------------------------------------------------
+Objectif atteint à l’épisode 489 en 6 étapes.
+Succès depuis le debut: 184/500
+Epsilon = 0.00 à l'épisode 489 | 
+
+
+Épisode 489 --------------------------------------------------
+Objectif atteint à l’épisode 490 en 6 étapes.
+Succès depuis le debut: 185/500
+Epsilon = 0.00 à l'épisode 490 | 
+
+
+Épisode 490 --------------------------------------------------
+Objectif atteint à l’épisode 491 en 6 étapes.
+Succès depuis le debut: 186/500
+Epsilon = 0.00 à l'épisode 491 | 
+
+
+Épisode 491 --------------------------------------------------
+Objectif atteint à l’épisode 492 en 6 étapes.
+Succès depuis le debut: 187/500
+Epsilon = 0.00 à l'épisode 492 | 
+
+
+Épisode 492 --------------------------------------------------
+Objectif atteint à l’épisode 493 en 6 étapes.
+Succès depuis le debut: 188/500
+Epsilon = 0.00 à l'épisode 493 | 
+
+
+Épisode 493 --------------------------------------------------
+Objectif atteint à l’épisode 494 en 6 étapes.
+Succès depuis le debut: 189/500
+Epsilon = 0.00 à l'épisode 494 | 
+
+
+Épisode 494 --------------------------------------------------
+Objectif atteint à l’épisode 495 en 6 étapes.
+Succès depuis le debut: 190/500
+Epsilon = 0.00 à l'épisode 495 | 
+
+
+Épisode 495 --------------------------------------------------
+Objectif atteint à l’épisode 496 en 6 étapes.
+Succès depuis le debut: 191/500
+Epsilon = 0.00 à l'épisode 496 | 
+
+
+Épisode 496 --------------------------------------------------
+Objectif atteint à l’épisode 497 en 6 étapes.
+Succès depuis le debut: 192/500
+Epsilon = 0.00 à l'épisode 497 | 
+
+
+Épisode 497 --------------------------------------------------
+Objectif atteint à l’épisode 498 en 6 étapes.
+Succès depuis le debut: 193/500
+Epsilon = 0.00 à l'épisode 498 | 
+
+
+Épisode 498 --------------------------------------------------
+Objectif atteint à l’épisode 499 en 6 étapes.
+Succès depuis le debut: 194/500
+Epsilon = 0.00 à l'épisode 499 | 
+
+
+Épisode 499 --------------------------------------------------
+Objectif atteint à l’épisode 500 en 6 étapes.
+Epsilon = 0.00 à l'épisode 500 | 
+
+Succès totaux: 195/500

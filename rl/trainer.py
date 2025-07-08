@@ -1,4 +1,4 @@
-def train(env, agent, episodes: int, max_steps=100):
+def train(env, agent, episodes: int, max_steps=100, log_all=False):
     successes = 0
     
     for episode in range(episodes):
@@ -25,13 +25,16 @@ def train(env, agent, episodes: int, max_steps=100):
         cell = env.get_current_cell()
         if cell == "G":
             successes += 1
-            print(f"Objectif atteint à l’épisode {episode+1} en {env.get_step_count()} étapes.")
-        elif cell == "H":
-            print(f"Tombé dans un trou à l’épisode {episode+1} en {env.get_step_count()} étapes.")
-        
-        if episode != episodes - 1:
-            print(f"\nSuccès depuis le debut: {successes}/{episodes}")
-        print(f"Épisode {episode+1} | epsilon = {agent.epsilon:.2f}")
+            
+        if log_all or (episode + 1) % 10 == 0 or episode == episodes - 1:
+            print("\n")
+            print("—" * 50)
+            print(f"🎯 Épisode {episode + 1} terminé")
+            print(f"  - Cellule finale : {cell}")
+            print(f"  - Étapes : {env.get_step_count()}")
+            print(f"  - Succès cumulés : {successes}/{episode + 1}")
+            print(f"  - Epsilon = {agent.epsilon:.2f}")
 
-    print(f"\nSuccès totaux: {successes}/{episodes}")
+    print("\n✅ Entraînement terminé")
+    print(f"  - Succès totaux : {successes}/{episodes}")
 

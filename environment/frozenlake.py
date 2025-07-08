@@ -48,8 +48,6 @@ class FrozenLakeEnv:
         if 0 <= new_x < self.width and 0 <= new_y < self.height:
             self.agent_pos = (new_x, new_y)
             self.step_count += 1
-        else:
-            print(f"Sortie de map")
         
         return self.agent_pos
     
@@ -67,6 +65,9 @@ class FrozenLakeEnv:
                 return 1
             case "H":
                 return self.reward_hole
+            case _:
+                return 0
+        
 
     def step(self, action: str) -> Tuple[Tuple[int, int], int, bool]:
         self.move_agent(action)
